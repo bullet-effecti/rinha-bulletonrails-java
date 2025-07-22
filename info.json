@@ -1,0 +1,10 @@
+{
+  "name": "BulletOnRails",
+  "social": ["https://github.com/bulletdev"],
+  "source-code-repo": "https://github.com/dev/rinha-backend-2025-java",
+  "langs": ["java"],
+  "storages": ["in-memory"],
+  "messaging": ["async-queues"],
+  "load-balancers": ["nginx"],
+  "other-technologies": ["spring-boot", "undertow", "webflux", "caffeine", "virtual-threads"]
+}
