@@ -1,4 +1,4 @@
-# Rinha de Backend - Nerfa mais a JVM
+# 🐓 Rinha de Backend - Nerfa mais a JVM  ☕ 
 
 <details align="left">
 
@@ -100,4 +100,4 @@ curl http://localhost:9999/payments-summary
 
 ---
 
-**Feito com ❤️ por e bastante ☕ por BulletOnRails para a Rinha **
+** Feito com ❤️ e bastante ☕ para a 🐓 Rinha **
