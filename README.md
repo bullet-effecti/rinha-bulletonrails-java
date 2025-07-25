@@ -26,7 +26,7 @@
 
 </details>
 
-![Boleto](assets/javapagou.png)
+![Boleto](assets/javapagouxd.png)
 
 ##  Estratégia de Performance
 
