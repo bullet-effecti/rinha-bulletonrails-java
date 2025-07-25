@@ -1,7 +1,7 @@
 {
   "name": "BulletOnRails",
   "social": ["https://github.com/bulletdev"],
-  "source-code-repo": "https://github.com/dev/rinha-backend-2025-java",
+  "source-code-repo": "https://github.com/rinha-bulletonrails-java",
   "langs": ["java"],
   "storages": ["in-memory"],
   "messaging": ["async-queues"],
